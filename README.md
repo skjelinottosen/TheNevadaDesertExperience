@@ -6,14 +6,15 @@ The project uses following techniques:
 * Environment Mapping
 * Normal Mapping
 
-
-
-
-
-
-
+## Object loading
 ![](application_shots/newspaper.png)
 ![](application_shots/UFOs.png)
-![](application_shots/alien-reflection.png)
+
+## Cube Map/Skybox
+![](application_shots/cube_map.png)
+![](application_shots/alien_reflection.png)
+
+## Normal Mapping
+![](application_shots/normal_mapping.png)
 ![](application_shots/cube.png)
 
