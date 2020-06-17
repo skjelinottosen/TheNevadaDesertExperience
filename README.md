@@ -1,8 +1,8 @@
 # TheNevadaDesertExperience
 A project to learn more about data graphics with OpenGL.
 
-![](application _shots/newspaper.png)
-![](application _shots/UFOs.png)
-![](application _shots/alien-reflection.png)
-![](application _shots/cube.png)
+![](application_shots/newspaper.png)
+![](application_shots/UFOs.png)
+![](application_shots/alien-reflection.png)
+![](application_shots/cube.png)
 
