@@ -3,7 +3,7 @@ A project to learn more about data graphics with OpenGL.
 
 The project uses following techniques:
 * Cube Map/Skybox
-* Environment Mapping
+* Environment mapping
 * Normal Mapping
 
 
